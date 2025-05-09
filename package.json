@@ -1,0 +1,26 @@
+{
+  "name": "@medunigraz/carbon-theme",
+  "version": "0.0.1",
+  "description": "Medical University of Graz inspiured theme for IBM Carbon",
+  "main": "_index.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medunigraz/carbon-theme.git"
+  },
+  "keywords": [
+    "carbon",
+    "sass",
+    "scss",
+    "theme",
+    "medunigraz"
+  ],
+  "author": "Michael Fladischer <michael.fladischer@medunigraz.at>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/medunigraz/carbon-theme/issues"
+  },
+  "homepage": "https://github.com/medunigraz/carbon-theme#readme"
+}

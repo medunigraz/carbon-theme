@@ -1,0 +1,56 @@
+/*
+Green
+009A43
+00893C
+007935
+056830
+044B23
+
+Blue
+05518B
+06497C
+07416D
+0A395D
+082A44
+
+
+Orange
+D87C00
+C06E00
+AA6100
+915607
+693F06
+
+
+Red
+D82D00
+C02800
+AA2300
+912407
+912407
+*/
+
+
+
+$default: (
+  $background-brand: #007935;
+  $border-interactive: #009A43;
+  $text-error: #AA2300;
+  $link-primary: #009A43;
+  $link-primary-hover: #00893C;
+  $link-secondary: #00893C;
+  $link-inverse: #009A43;
+  $link-inverse-hover: #00893C;
+  $link-inverse-visited: #056830;
+  $link-visited: #056830;
+  $icon-interactive: #007935;
+  $focus: #007935;
+  $interactive: #007935;
+  $highlight: #009A43;
+  $button-primary: #007935;
+  $button-primary-hover: #056830;
+  $button-primary-active: #044B23;
+  $button-tertiary: #007935;
+  $button-tertiary-hover: #056830;
+  $button-tertiary-active: #044B23;
+)
