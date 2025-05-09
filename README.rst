@@ -14,7 +14,7 @@ Use the provided theme in your global `styles.scss` to configure the carbon them
 
 ::
 
-  @use '@medunigraz/carbon-theme/theme' as medunigraz;
+  @use '@medunigraz/carbon-theme' as medunigraz;
   @use '@carbon/react/scss/theme' with (
     $theme: medunigraz.$default
   );
